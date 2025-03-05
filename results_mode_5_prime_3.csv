@@ -1,0 +1,251 @@
+hein_14_5x5-07.pg.cnf,1.494623514,0
+hein_09_4x4-07.pg.cnf,2.189967789,0
+browne_5x5_07.pg.cnf,2.351008535,0
+hein_18_7x7-09.pg.cnf,3.289645520,0
+hein_13_5x5-07.pg.cnf,3.538152749,0
+hein_05_6x6-09.pg.cnf,4.646177795,0
+test3_quant2.cnf,5.250877908,0
+test4_quant_squaring2.cnf,5.861088086,2
+test3_quant_squaring2.cnf,6.024588964,0
+hein_17_6x6-09.pg.cnf,5.834914700,0
+hein_19_5x5-11.pg.cnf,7.984687481,0
+L2-telatko24.cnf,8.042630252,2
+connect-6x6_3_connect2.ig.cnf,2.447224727,0
+bt2nd-2x4_8.ig.cnf,11.152475506,1
+connect-4x4_9_connect3.ig.cnf,11.944821147,0
+add5_REDUCED.cnf,14.058846947,0
+bt-3x6_9.ig.cnf,15.075167470,1
+connect-3x3_9_connect3.ig.cnf,14.926201928,1
+Umbrella_tbm_05.tex.module.000039.cnf,16.134909949,0
+connect-5x5_9_connect3.ig.cnf,18.937688483,0
+add5_COMPLETE.cnf,22.207683152,0
+bt-3x5_11.ig.cnf,24.418912039,2
+bt2nd-3x6_10.ig.cnf,24.480093612,0
+sc-ungrounded-1x3X3x1_2.cnf,32.298760968,0
+amba2c7n.sat.cnf,32.852961036,2
+sc-ungrounded-1x1X1x3_2.cnf,35.381794835,0
+nusmv.tcas^2.B-f2.cnf,40.778400468,0
+nusmv.tcas^3.B-f2.cnf,42.222312709,0
+Adder2-8-s.cnf,42.478194667,0
+adder-10-sat.cnf,42.846744241,0
+hein_08_5x5-09.pg.cnf,4.358519687,0
+hein_07_4x4-07.pg.cnf,1.783657800,0
+add6_REDUCED.cnf,50.920745150,0
+bt-2x6_15.ig.cnf,56.009509081,2
+hein_11_5x5-11.pg.cnf,63.234585209,0
+hein_03_6x6-11.pg.cnf,64.839018169,0
+stmt2_976_999.cnf,39.054462917,1
+nusmv.reactor^3.C-d4.cnf,4.496863193,1
+sc-ungrounded-1x2X2x2_1.cnf,75.882474725,0
+add6_COMPLETE.cnf,76.010522552,2
+sc-ungrounded-2x1X1x2_1.cnf,77.390750071,0
+Adder2-10-s.cnf,78.419486360,0
+hein_02_5x5-11.pg.cnf,83.992398761,0
+sortnetsort9.v.stepl.005.cnf,96.050673331,2
+add7_REDUCED.cnf,106.507064415,0
+bt2nd-2x5_10.ig.cnf,106.592190944,0
+hein_16_5x5-11.pg.cnf,107.605035713,0
+connect-6x6_9_connect3.ig.cnf,128.575343295,1
+W4-Umbrella_tbm_05.tex.moduleQ3.8S.000001.cnf,119.407722911,0
+sortnetsort10.v.stepl.005.cnf,137.870403233,0
+hein_20_6x6-11.pg.cnf,54.873887827,0
+connect-6x6_11_connect4.ig.cnf,143.032984854,0
+Adder2-14-s.cnf,151.360915851,0
+W4-Umbrella_tbm_21.tex.moduleQ3.6S.000001.cnf,29.774071289,0
+amba3b5y.sat.cnf,161.408293619,2
+bt-2x5_17.ig.cnf,185.190765372,0
+bt-2x4_13.ig.cnf,37.323841703,0
+nusmv.tcas^4.B-f3.cnf,254.804884505,0
+Adder2-16-s.cnf,263.197640744,0
+small-seq-fixpoint-3.cnf,287.695452249,0
+test4_quant4.cnf,206.154891104,2
+adder-12-unsat.cnf,309.108732520,2
+sortnetsort9.v.stepl.007.cnf,312.581073689,2
+incrementer-enc08-uniform-depth-33.cnf,359.117367775,1
+stmt41_160_235.cnf,366.391769568,2
+bt2nd-2x6_14.ig.cnf,438.680066479,1
+bt2nd-3x4_12.ig.cnf,440.055592149,2
+amba2f9n.sat.cnf,445.630461672,1
+add7_COMPLETE.cnf,551.121608372,1
+C6288.blif_0.10_1.00_0_0_inp_exact.cnf,720.004937738,TIMED OUT
+sortnetsort10.AE.stepl.008.cnf,720.004804035,TIMED OUT
+W5-Umbrella_tbm_26.tex.moduleQ3.7S.000003.cnf,720.005845949,TIMED OUT
+5-5-3-4-3-49-EdAd.cnf,720.003887369,TIMED OUT
+hein_17_6x6-13.pg.cnf,720.004352226,TIMED OUT
+mult_bool_matrix_10_9_11.unsat.cnf,720.004703140,TIMED OUT
+ldomino-15-winB-true-end.qcnf.cnf,720.003264917,TIMED OUT
+5-5-6-4-3-9-EuAd.cnf,720.003955604,TIMED OUT
+load_2c_comp_comp7_REAL.sat.cnf,720.003356191,TIMED OUT
+sat18_problem15_length_3.cnf,720.003445748,TIMED OUT
+5-5-4-4-3-15-EuAu.cnf,720.003421194,TIMED OUT
+IssueServiceImpl.cnf,720.003804772,TIMED OUT
+C5315.blif_0.10_0.20_0_1_out_exact.cnf,720.004195614,TIMED OUT
+NotificationServiceImpl2.cnf,720.003125725,TIMED OUT
+ldomino-18-winB-false-end.qcnf.cnf,720.003281352,TIMED OUT
+L3-telatko4.cnf,720.003183307,TIMED OUT
+stmt21_181_369.cnf,720.002857486,TIMED OUT
+usb-phy-fixpoint-3.cnf,720.003997260,TIMED OUT
+C5315.blif_0.10_0.20_0_0_inp_exact.cnf,720.003871705,TIMED OUT
+test2_quant3.cnf,720.003148060,TIMED OUT
+stmt32_329_378.cnf,720.003574595,TIMED OUT
+k_ph_p-11.cnf,720.004167006,TIMED OUT
+stmt17_70_98.cnf,720.003285752,TIMED OUT
+pi-bus-fixpoint-1.cnf,720.005732168,TIMED OUT
+stmt39_285_335.cnf,720.003841481,TIMED OUT
+opt18_problem05_length_2.cnf,720.003183472,TIMED OUT
+L2-telatko16.cnf,720.003943603,TIMED OUT
+unit11_3_b.cnf,720.004436039,TIMED OUT
+texas.PI_main^05.E-f3.cnf,720.006181040,TIMED OUT
+W4-Umbrella_tbm_26.tex.moduleQ3.7S.000003.cnf,720.006593222,TIMED OUT
+stmt19_64_99.cnf,720.005677101,TIMED OUT
+ OUT
+ldomino-23-winA-true-end.qcnf.cnf,720.006239204,TIMED OUT
+ldomino-20-winB-false-end.qcnf.cnf,720.007778885,TIMED OUT
+k_branch_n-12.cnf,720.002989345,TIMED OUT
+C6288.blif_0.10_0.20_0_0_inp_exact.cnf,720.007317225,TIMED OUT
+C5315.blif_0.10_0.20_0_0_out_exact.cnf,720.003621297,TIMED OUT
+PhaseService.cnf,720.002763558,TIMED OUT
+sc-ungrounded-1x2X2x3_1.cnf,720.009800033,TIMED OUT
+kmdf_pcidrv_sys_hw_physet.c.cnf,720.002864871,TIMED OUT
+sortnetsort10.AE.stepl.006.cnf,720.011150487,TIMED OUT
+stmt17_63_82.cnf,720.004413106,TIMED OUT
+5-5-3-6-3-28-EdAd.cnf,720.007389796,TIMED OUT
+L3-telatko15.cnf,720.003442717,TIMED OUT
+GuidanceService.cnf,720.003558028,TIMED OUT
+amba4b9y.unsat.cnf,720.002994647,TIMED OUT
+neclaftp4001.cnf,720.006142615,TIMED OUT
+744ldomino-22-winB-false-end.qcnf.cnf,720.003732211,TIMED OUT
+5-5-4-4-3-70-EuAd.cnf,720.006450903,TIMED OUT
+D OUT
+gttt_2_1_00102030_4x4_torus_b.cnf,720.010027360,TIMED OUT
+unit12_2_b.cnf,720.002813659,TIMED OUT
+L1-telatko21.cnf,720.003243169,TIMED OUT
+ldomino-19-winA-true-end.qcnf.cnf,720.002790344,TIMED OUT
+L1-telatko4.cnf,720.003296254,TIMED OUT
+connect-5x5_11_connect4.ig.cnf,720.003508530,TIMED OUT
+cycle_sched_4_4_2.sat.cnf,720.002891146,TIMED OUT
+filesys_smbmrx_midatlas.c.cnf,720.002672205,TIMED OUT
+sat18_problem07_length_3.cnf,720.002920334,TIMED OUT
+arbiter-09-comp-error01-qbf-hardness-depth-15.cnf,720.003004017,TIMED OUT
+stmt23_66_96.cnf,720.003266184,TIMED OUT
+ OUT
+D OUT
+sortnetsort9.AE.stepl.008.cnf,720.003057280,TIMED OUT
+stmt19_313_412.cnf,720.003443366,TIMED OUT
+5-5-5-6-3-88-EdAd.cnf,720.011471027,TIMED OUT
+Adder2-8-c.cnf,720.002849677,TIMED OUT
+UT
+eijk.S1196.S-f2.cnf,720.003054004,TIMED OUT
+stmt17_82_98.cnf,720.002974332,TIMED OUT
+sc-ungrounded-2x1X1x2_2.cnf,720.002755706,TIMED OUT
+arbiter-08-comp-error02-qbf-hardness-depth-9.cnf,720.002881850,TIMED OUT
+ldomino-21-winB-true-after.qcnf.cnf,720.004805890,TIMED OUT
+5-5-4-6-3-13-EuAd.cnf,720.003441191,TIMED OUT
+alkene_problem13_length_2.cnf,720.002984849,TIMED OUT
+gttt_1_1_000111_4x4_torus_w.cnf,720.003225650,TIMED OUT
+ldomino-19-winA-true-after.qcnf.cnf,720.002700314,TIMED OUT
+mitexams_problem02_length_3.cnf,720.003387539,TIMED OUT
+W4-Umbrella_tbm_25.tex.moduleQ3.7S.000003.cnf,720.003116953,TIMED OUT
+s820_d10_s.cnf,720.004377864,TIMED OUT
+,TIMED OUT
+sat18_problem12_length_2.cnf,720.002897880,TIMED OUT
+unit6_3_b.cnf,720.003065472,TIMED OUT
+L3-telatko31.cnf,720.003247243,TIMED OUT
+arbiter-06-comp-error01-qbf-hardness-depth-15.cnf,720.015511634,TIMED OUT
+cmu.gigamax.B-d4.cnf,720.007876328,TIMED OUT
+biu.mv.xl_ao.bb-b003-p020-IPF02-c05.blif-biu.inv.prop.bb-bmc.with-IOC.unfold-007.cnf,720.003599674,TIMED OUT
+alkene_problem01_length_2.cnf,720.009631414,TIMED OUT
+
+L3-telatko19.cnf,720.017876890,TIMED OUT
+ldomino-15-winB-true-after.qcnf.cnf,720.035482469,TIMED OUT
+ldomino-24-winA-true-after.qcnf.cnf,720.010463702,TIMED OUT
+L3-telatko32.cnf,720.020664686,TIMED OUT
+ken.flash^08.C-d4.cnf,720.046873331,TIMED OUT
+cache-coherence-3-fixpoint-3.cnf,720.047455027,TIMED OUT
+gttt_1_1_00101121_4x4_torus_w.cnf,720.024168174,TIMED OUT
+LoginService.cnf,720.019343756,TIMED OUT
+mitexams_problem10_length_3.cnf,720.007265321,TIMED OUT
+reachqu_query71_1344.cnf,720.006440294,TIMED OUT
+gttt_2_2_000111_4x4_torus_w.cnf,720.014031492,TIMED OUT
+gttt_2_2_000111_4x4_b.cnf,720.014358927,TIMED OUT
+5-5-5-5-3-53-EuAu.cnf,720.013227623,TIMED OUT
+5-5-5-4-3-63-EdAu.cnf,720.013606238,TIMED OUT
+stmt28_68_81.cnf,720.012553625,TIMED OUT
+ldomino-25-winA-false-after.qcnf.cnf,720.004469171,TIMED OUT
+opt18_problem16_length_2.cnf,720.023218623,TIMED OUT
+eequery_query42_1344.cnf,720.008325894,TIMED OUT
+L3-telatko42.cnf,720.007340108,TIMED OUT
+nreachq_query71_1344.cnf,720.008372768,TIMED OUT
+arbiter-06-comp-error01-qbf-hardness-depth-11.cnf,720.008884088,TIMED OUT
+sat18_problem10_length_2.cnf,720.004631377,TIMED OUT
+L1-telatko0.cnf,720.005399400,TIMED OUT
+stmt17_62_98.cnf,720.004455616,TIMED OUT
+UT
+11492320,TIMED OUT
+hein_05_6x6-13.pg.cnf,720.004068808,TIMED OUT
+sortnetsort9.AE.stepl.007.cnf,720.007572303,TIMED OUT
+
+UT
+L1-telatko23.cnf,720.004256873,TIMED OUT
+ntrivil_query71_1344n.cnf,720.003968550,TIMED OUT
+8,TIMED OUT
+L2-telatko1.cnf,720.003638940,TIMED OUT
+5-5-6-3-3-81-EdAu.cnf,720.007308662,TIMED OUT
+mitexams_problem20_length_2.cnf,720.004645337,TIMED OUT
+L1-telatko20.cnf,720.009048833,TIMED OUT
+OUT
+C6288.blif_0.10_0.20_0_0_out_exact.cnf,720.006652166,TIMED OUT
+W5-Umbrella_tbm_25.tex.moduleQ3.7S.000003.cnf,720.008738924,TIMED OUT
+ProcessBean.cnf,720.007307042,TIMED OUT
+D OUT
+sat18_problem11_length_2.cnf,720.005236029,TIMED OUT
+UT
+sortnetsort9.AE.stepl.012.cnf,720.017248275,TIMED OUT
+eequery_query42_1344n.cnf,720.003374384,TIMED OUT
+genbuf9b4n.unsat.cnf,720.006840165,TIMED OUT
+ED OUT
+GuidanceService2.cnf,720.003872196,TIMED OUT
+texas.PI_main^08.E-f3.cnf,720.006527014,TIMED OUT
+k_branch_n-11.cnf,720.029897318,TIMED OUT
+TIMED OUT
+ldomino-16-winA-true-after.qcnf.cnf,720.003252492,TIMED OUT
+nreachq_query54_1344n.cnf,720.022267639,TIMED OUT
+stmt52_295_394.cnf,720.003742595,TIMED OUT
+cmu.dme2.B-f3.cnf,720.003828607,TIMED OUT
+IMED OUT
+incrementer-enc09-uniform-depth-17.cnf,720.008254249,TIMED OUT
+stmt23_72_76.cnf,720.006263386,TIMED OUT
+test2_quant_squaring3.cnf,720.005467750,TIMED OUT
+,TIMED OUT
+query71_query36_1344n.cnf,720.006654556,TIMED OUT
+ldomino-16-winB-false-end.qcnf.cnf,720.005756608,TIMED OUT
+L2-telatko9.cnf,720.005611969,TIMED OUT
+
+sortnetsort9.AE.stepl.009.cnf,720.012452020,TIMED OUT
+gttt_2_1_00011020_4x4_b.cnf,720.012227328,TIMED OUT
+L2-telatko34.cnf,720.004900123,TIMED OUT
+cycle_sched_6_7_1.sat.cnf,720.074637843,TIMED OUT
+b22_C_2_12.cnf,720.003151547,TIMED OUT
+ldomino-15-winA-false-after.qcnf.cnf,720.003410742,TIMED OUT
+intermediate128.cnf,720.003273081,TIMED OUT
+L1-telatko7.cnf,720.003103854,TIMED OUT
+5-5-6-6-3-17-EuAu.cnf,720.041860360,TIMED OUT
+C6288.blif_0.10_0.20_0_1_inp_exact.cnf,720.005372335,TIMED OUT
+ldomino-18-winB-false-after.qcnf.cnf,720.003189338,TIMED OUT
+5-5-4-4-3-2-EdAu.cnf,720.003541771,TIMED OUT
+Adder2-16-c.cnf,720.011115194,TIMED OUT
+ldomino-24-winB-false-after.qcnf.cnf,720.004205645,TIMED OUT
+stmt17_86_98.cnf,720.005043374,TIMED OUT
+hein_18_7x7-13.pg.cnf,720.003998019,TIMED OUT
+b22_PR_9_90.cnf,720.009745358,TIMED OUT
+5-5-5-9-3-79-EuAu.cnf,720.003877652,TIMED OUT
+test5_quant7.cnf,720.003723133,TIMED OUT
+arbiter-05-comp-error01-qbf-hardness-depth-8.cnf,720.003307173,TIMED OUT
+W5-Umbrella_tbm_05.tex.moduleQ3.8S.000001.cnf,720.003630931,TIMED OUT
+p20-1.pddl_planlen=48.cnf,720.002937707,TIMED OUT
+mult_bool_matrix_dyn_9_5.sat.cnf,720.003592462,TIMED OUT
+stmt29_226_376.cnf,720.003161719,TIMED OUT
+usb-phy-fixpoint-5.cnf,720.003017138,TIMED OUT
+ldomino-20-winA-true-after.qcnf.cnf,720.003144493,TIMED OUT
+query71_query31_1344n.cnf,720.002947359,TIMED OUT
+sat18_problem03_length_3.cnf,720.010745626,TIMED OUT
