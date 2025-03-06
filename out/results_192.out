@@ -1,0 +1,14 @@
+Processing stmt41_160_235.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+DONE (349.960077020 seconds), count: 2 for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+c o exact arb 2 mod 3
+Processing stmt41_160_235.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (1.319891758 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing stmt41_160_235.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (1.305337815 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing stmt41_160_235.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (1.455236855 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing stmt41_160_235.cnf with ./ganak 
+TIMED OUT for ./ganak 

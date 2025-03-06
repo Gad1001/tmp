@@ -1,0 +1,15 @@
+Processing amba2f9n.sat.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+DONE (421.948292959 seconds), count: 1 for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+c o exact arb 1 mod 3
+Processing amba2f9n.sat.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (4.749646963 seconds), count: 1 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 1 mod 2
+Processing amba2f9n.sat.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (4.735288881 seconds), count: 1 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 1
+Processing amba2f9n.sat.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (4.598137092 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing amba2f9n.sat.cnf with ./ganak 
+DONE (53.337958019 seconds), count: 599359302357818356262809 for ./ganak 
+c o exact arb rational 599359302357818356262809

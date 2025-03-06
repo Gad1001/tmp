@@ -1,0 +1,14 @@
+Processing Adder2-14-s.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+DONE (140.458987149 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+c o exact arb 0 mod 3
+Processing Adder2-14-s.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (100.793910431 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing Adder2-14-s.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (99.842949513 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing Adder2-14-s.cnf with ./ganak_518f3f90b0c6c --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --verb 0
+Processing Adder2-14-s.cnf with ./ganak 
+DONE (210.173038395 seconds), count: 2195 for ./ganak 
+c o [td] #bags 2195 tw 23 elapsed 61.329 s

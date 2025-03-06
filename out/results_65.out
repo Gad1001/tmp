@@ -1,0 +1,12 @@
+Processing k_ph_p-11.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+Processing k_ph_p-11.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+Processing k_ph_p-11.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+Processing k_ph_p-11.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (6.937783116 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing k_ph_p-11.cnf with ./ganak 
+DONE (565.731650200 seconds), count: 84737 for ./ganak 
+c o [td] Too many edges, 84737 skipping TD

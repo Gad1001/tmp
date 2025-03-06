@@ -1,0 +1,15 @@
+Processing connect-4x4_9_connect3.ig.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+DONE (11.560483848 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+c o exact arb 0 mod 3
+Processing connect-4x4_9_connect3.ig.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (.356645374 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing connect-4x4_9_connect3.ig.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (.356175175 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing connect-4x4_9_connect3.ig.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (.486074550 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing connect-4x4_9_connect3.ig.cnf with ./ganak 
+DONE (14.452083131 seconds), count: 963473782636496301679800950784 for ./ganak 
+c o exact arb rational 963473782636496301679800950784

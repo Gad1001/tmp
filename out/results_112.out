@@ -1,0 +1,12 @@
+Processing W4-Umbrella_tbm_25.tex.moduleQ3.7S.000003.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+Processing W4-Umbrella_tbm_25.tex.moduleQ3.7S.000003.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (119.320698818 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing W4-Umbrella_tbm_25.tex.moduleQ3.7S.000003.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (119.772095773 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing W4-Umbrella_tbm_25.tex.moduleQ3.7S.000003.cnf with ./ganak_518f3f90b0c6c --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --verb 0
+Processing W4-Umbrella_tbm_25.tex.moduleQ3.7S.000003.cnf with ./ganak 
+TIMED OUT for ./ganak 

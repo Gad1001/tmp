@@ -1,0 +1,15 @@
+Processing add7_COMPLETE.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+DONE (538.419226249 seconds), count: 1 for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+c o exact arb 1 mod 3
+Processing add7_COMPLETE.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (22.308407326 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing add7_COMPLETE.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (22.278041075 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing add7_COMPLETE.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (1.784378061 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing add7_COMPLETE.cnf with ./ganak 
+DONE (363.936692257 seconds), count: 1140254493857242775084907453810673826334334592939416346111241627573447051948718586182598612784560918690127933053231106398988706604798624129577254935862290627776385566972511360539635577046171648 for ./ganak 
+c o exact arb rational 1140254493857242775084907453810673826334334592939416346111241627573447051948718586182598612784560918690127933053231106398988706604798624129577254935862290627776385566972511360539635577046171648

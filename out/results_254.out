@@ -1,0 +1,13 @@
+Processing Adder2-16-c.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+Processing Adder2-16-c.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (160.487199603 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing Adder2-16-c.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (158.479436029 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing Adder2-16-c.cnf with ./ganak_518f3f90b0c6c --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --verb 0
+Processing Adder2-16-c.cnf with ./ganak 
+DONE (327.830166327 seconds), count: 99 for ./ganak 
+c o [td] iter 99 best bag: 24 stepsK remain: 18 T: 95.471

@@ -1,0 +1,15 @@
+Processing bt-2x6_15.ig.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+DONE (52.931165545 seconds), count: 2 for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+c o exact arb 2 mod 3
+Processing bt-2x6_15.ig.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (1.061511981 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing bt-2x6_15.ig.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (1.060371373 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing bt-2x6_15.ig.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (1.228748905 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing bt-2x6_15.ig.cnf with ./ganak 
+DONE (33.449475259 seconds), count: 111813012812912356082300642473412840159092531592 for ./ganak 
+c o exact arb rational 111813012812912356082300642473412840159092531592

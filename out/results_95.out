@@ -1,0 +1,15 @@
+Processing nusmv.tcas^2.B-f2.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+DONE (39.921243216 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+c o exact arb 0 mod 3
+Processing nusmv.tcas^2.B-f2.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (8.330660839 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing nusmv.tcas^2.B-f2.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (8.249946246 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing nusmv.tcas^2.B-f2.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (8.406695500 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing nusmv.tcas^2.B-f2.cnf with ./ganak 
+DONE (27.293469076 seconds), count: 126034440219988606077926441599334775159074031519620159703386978437789285015259807180903514588377702640096871080828940896536124296390721071329837056000 for ./ganak 
+c o exact arb rational 126034440219988606077926441599334775159074031519620159703386978437789285015259807180903514588377702640096871080828940896536124296390721071329837056000

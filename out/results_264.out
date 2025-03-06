@@ -1,0 +1,12 @@
+Processing arbiter-05-comp-error01-qbf-hardness-depth-8.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+Processing arbiter-05-comp-error01-qbf-hardness-depth-8.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (6.427115295 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing arbiter-05-comp-error01-qbf-hardness-depth-8.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (6.432876904 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing arbiter-05-comp-error01-qbf-hardness-depth-8.cnf with ./ganak_518f3f90b0c6c --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --verb 0
+Processing arbiter-05-comp-error01-qbf-hardness-depth-8.cnf with ./ganak 
+TIMED OUT for ./ganak 

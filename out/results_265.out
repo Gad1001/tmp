@@ -1,0 +1,15 @@
+Processing nusmv.reactor^3.C-d4.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+DONE (4.485634096 seconds), count: 1 for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+c o exact arb 1 mod 3
+Processing nusmv.reactor^3.C-d4.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (2.754563987 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing nusmv.reactor^3.C-d4.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (2.745016865 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing nusmv.reactor^3.C-d4.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (2.875453702 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing nusmv.reactor^3.C-d4.cnf with ./ganak 
+DONE (3.623210224 seconds), count: 497323236409786642155382248146820840100456150797347717440463976893159497012533375533056 for ./ganak 
+c o exact arb rational 497323236409786642155382248146820840100456150797347717440463976893159497012533375533056

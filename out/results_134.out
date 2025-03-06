@@ -1,0 +1,14 @@
+Processing L2-telatko34.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+Processing L2-telatko34.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (11.424148279 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing L2-telatko34.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (11.434700272 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing L2-telatko34.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (.683513885 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing L2-telatko34.cnf with ./ganak 
+DONE (170.756622525 seconds), count: 47961202805508002376413051236296933049673413708275620054758808616960 for ./ganak 
+c o exact arb rational 47961202805508002376413051236296933049673413708275620054758808616960

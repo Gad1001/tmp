@@ -1,0 +1,10 @@
+Processing C6288.blif_0.10_1.00_0_0_inp_exact.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+Processing C6288.blif_0.10_1.00_0_0_inp_exact.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+Processing C6288.blif_0.10_1.00_0_0_inp_exact.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+Processing C6288.blif_0.10_1.00_0_0_inp_exact.cnf with ./ganak_518f3f90b0c6c --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --verb 0
+Processing C6288.blif_0.10_1.00_0_0_inp_exact.cnf with ./ganak 
+TIMED OUT for ./ganak 

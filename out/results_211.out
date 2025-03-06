@@ -1,0 +1,14 @@
+Processing incrementer-enc09-uniform-depth-17.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+Processing incrementer-enc09-uniform-depth-17.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (44.428648002 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing incrementer-enc09-uniform-depth-17.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (44.543080992 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing incrementer-enc09-uniform-depth-17.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (44.539831961 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing incrementer-enc09-uniform-depth-17.cnf with ./ganak 
+DONE (30.404940208 seconds), count: ERROR_NO_COUNT for ./ganak 
+c o exact arb rational 123841170512916443075550919778867308378788031209238810682723022657285833467653444888414896931333238355342785567504226376803829871641563401264820889446686335712393130528676077582362244969391413598904953184806249303435561287538922579392835195948196792947351440888527629770965742718810070164043573063688199128011213299962933586591616073728

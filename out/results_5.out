@@ -1,0 +1,15 @@
+Processing hein_19_5x5-11.pg.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+DONE (6.910524862 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+c o exact arb 0 mod 3
+Processing hein_19_5x5-11.pg.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (37.616251476 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing hein_19_5x5-11.pg.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (37.549847019 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing hein_19_5x5-11.pg.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (1.234349110 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing hein_19_5x5-11.pg.cnf with ./ganak 
+DONE (63.777100958 seconds), count: 1540022964480 for ./ganak 
+c o exact arb rational 1540022964480

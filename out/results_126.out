@@ -1,0 +1,15 @@
+Processing sc-ungrounded-2x1X1x2_1.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+DONE (77.126015651 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+c o exact arb 0 mod 3
+Processing sc-ungrounded-2x1X1x2_1.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (63.189438524 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing sc-ungrounded-2x1X1x2_1.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (63.187506732 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing sc-ungrounded-2x1X1x2_1.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (4.627351748 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing sc-ungrounded-2x1X1x2_1.cnf with ./ganak 
+DONE (47.750602676 seconds), count: 5657039664 for ./ganak 
+c o exact arb rational 5657039664

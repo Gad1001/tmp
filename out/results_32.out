@@ -1,0 +1,13 @@
+Processing load_2c_comp_comp7_REAL.sat.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+Processing load_2c_comp_comp7_REAL.sat.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (25.478595232 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing load_2c_comp_comp7_REAL.sat.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (25.470409737 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing load_2c_comp_comp7_REAL.sat.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (25.471683453 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing load_2c_comp_comp7_REAL.sat.cnf with ./ganak 
+TIMED OUT for ./ganak 

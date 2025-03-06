@@ -1,0 +1,13 @@
+Processing cycle_sched_4_4_2.sat.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+TIMED OUT for ./ganak_518f3f90b0c6c --mode 5 --prime 3 --verb 0
+Processing cycle_sched_4_4_2.sat.cnf with ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+DONE (139.614315445 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 5 --prime 2 --verb 0
+c o exact arb 0 mod 2
+Processing cycle_sched_4_4_2.sat.cnf with ./ganak_518f3f90b0c6c --mode 4 --verb 0
+DONE (139.499645104 seconds), count: 0 for ./ganak_518f3f90b0c6c --mode 4 --verb 0
+c o exact arb 0
+Processing cycle_sched_4_4_2.sat.cnf with ./ganak_518f3f90b0c6c --verb 0
+DONE (4.242977020 seconds), count: ERROR_NO_COUNT for ./ganak_518f3f90b0c6c --verb 0
+Last line: 
+Processing cycle_sched_4_4_2.sat.cnf with ./ganak 
+TIMED OUT for ./ganak 
