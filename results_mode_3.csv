@@ -1,276 +1,279 @@
-hein_14_5x5-07.pg.cnf,1.468725353,0
-test3_quant2.cnf,.068278631,0
-hein_09_4x4-07.pg.cnf,1.777667032,0
-test3_quant_squaring2.cnf,.069176626,0
-test4_quant_squaring2.cnf,.099394073,0
-browne_5x5_07.pg.cnf,2.308368467,0
-hein_18_7x7-09.pg.cnf,2.544709761,0
-hein_13_5x5-07.pg.cnf,2.841256496,0
-connect-6x6_3_connect2.ig.cnf,.154502026,0
-bt2nd-2x4_8.ig.cnf,.313238100,0
-connect-4x4_9_connect3.ig.cnf,.355683308,0
-hein_05_6x6-09.pg.cnf,4.620107808,0
-bt-3x6_9.ig.cnf,.632509671,0
-connect-3x3_9_connect3.ig.cnf,.414836439,0
-L2-telatko24.cnf,4.769428852,0
-hein_17_6x6-09.pg.cnf,5.689639329,0
-connect-5x5_9_connect3.ig.cnf,.681929517,0
-bt2nd-3x6_10.ig.cnf,.816245071,0
-bt-3x5_11.ig.cnf,.902623800,0
-amba2c7n.sat.cnf,2.156145524,1
-add5_REDUCED.cnf,12.519875248,0
-Umbrella_tbm_05.tex.module.000039.cnf,15.544664149,0
-add5_COMPLETE.cnf,12.686135841,0
-hein_07_4x4-07.pg.cnf,1.773789311,0
-bt-2x6_15.ig.cnf,1.107868351,0
-nusmv.tcas^2.B-f2.cnf,8.859230122,0
-nusmv.tcas^3.B-f2.cnf,8.534685723,0
-adder-10-sat.cnf,8.220422367,0
-hein_08_5x5-09.pg.cnf,5.325773714,0
-Adder2-8-s.cnf,11.883835213,0
-nusmv.reactor^3.C-d4.cnf,2.791413060,0
-add6_REDUCED.cnf,16.308924230,0
-hein_19_5x5-11.pg.cnf,39.740370823,0
-sc-ungrounded-1x3X3x1_2.cnf,28.207380367,1
-sc-ungrounded-1x1X1x3_2.cnf,30.524972946,1
-sortnetsort9.v.stepl.005.cnf,1.572350322,0
-bt2nd-2x5_10.ig.cnf,.561423525,0
-add6_COMPLETE.cnf,16.697517588,0
-stmt2_976_999.cnf,20.952485303,0
-connect-6x6_9_connect3.ig.cnf,.666810862,0
-sortnetsort10.v.stepl.005.cnf,2.751944555,0
-connect-6x6_11_connect4.ig.cnf,.949621376,0
-Adder2-10-s.cnf,35.887009392,0
-add7_REDUCED.cnf,24.026634924,0
-amba3b5y.sat.cnf,10.332483618,1
-hein_11_5x5-11.pg.cnf,61.689505206,0
-bt-2x5_17.ig.cnf,1.345415697,0
-W4-Umbrella_tbm_21.tex.moduleQ3.6S.000001.cnf,18.814387366,0
-sc-ungrounded-1x2X2x2_1.cnf,60.110652174,0
-bt-2x4_13.ig.cnf,.632653969,0
-hein_03_6x6-11.pg.cnf,67.024876144,0
-sc-ungrounded-2x1X1x2_1.cnf,63.466898156,0
-hein_02_5x5-11.pg.cnf,78.781164645,0
-hein_20_6x6-11.pg.cnf,53.786712094,0
-test4_quant4.cnf,.170772922,0
-hein_16_5x5-11.pg.cnf,100.546324954,0
-nusmv.tcas^4.B-f3.cnf,31.852168457,0
-sortnetsort9.v.stepl.007.cnf,3.443261345,0
-small-seq-fixpoint-3.cnf,21.127252872,0
-Adder2-14-s.cnf,107.183687773,0
-stmt41_160_235.cnf,1.393989735,0
-W4-Umbrella_tbm_05.tex.moduleQ3.8S.000001.cnf,118.191745905,0
-adder-12-unsat.cnf,53.830948665,0
-bt2nd-2x6_14.ig.cnf,.950806293,0
-bt2nd-3x4_12.ig.cnf,.898857423,0
-amba2f9n.sat.cnf,4.974414588,1
-add7_COMPLETE.cnf,22.751513242,0
-incrementer-enc08-uniform-depth-33.cnf,120.300418594,0
-Adder2-16-s.cnf,186.062465735,0
-test5_quant_squaring5.cnf,.359957007,0
-L3-telatko42.cnf,.599868053,0
-connect-5x5_11_connect4.ig.cnf,.986319075,0
-connect-4x4_15_connect4.ig.cnf,.780010749,0
-test1_quant3.cnf,.830784009,0
-Core1108_tbm_21.tex.module.000030.cnf,1.023320727,0
-bt2nd-3x5_12.ig.cnf,1.036422938,0
-L3-telatko32.cnf,1.232691738,0
-L3-telatko31.cnf,1.372310252,0
-L3-telatko15.cnf,1.690267163,0
-Core1108_tbm_21.tex.module.000008.cnf,1.511414151,0
-bt-3x4_19.ig.cnf,1.768651590,0
-stmt21_181_369.cnf,2.940693750,0
-stmt19_83_412.cnf,2.909556992,0
-cycle_sched_2_10_1.sat.cnf,3.853771703,0
-stmt39_285_335.cnf,4.581471418,0
-stmt21_319_418.cnf,4.878167282,0
-stmt32_329_378.cnf,5.210200250,0
-C5315.blif_0.10_0.20_0_1_out_exact.cnf,5.394265127,0
-stmt21_310_360.cnf,5.011024898,0
-C5315.blif_0.10_0.20_0_0_inp_exact.cnf,5.505786596,0
-eijk.S1196.S-f2.cnf,5.413545376,0
-stmt52_295_394.cnf,5.071262510,0
-stmt19_313_412.cnf,5.536194895,0
-intermediate256.cnf,5.624806979,0
-C5315.blif_0.10_0.20_0_0_out_exact.cnf,5.650730791,0
-GuidanceService.cnf,5.726277074,0
-ken.flash^08.C-d4.cnf,5.679237973,0
-GuidanceService2.cnf,5.798461578,0
-IssueServiceImpl.cnf,6.819628349,0
-unit8_2_b.cnf,6.873966878,0
-intermediate128.cnf,1.614452986,0
-test2_quant_squaring2.cnf,7.421162358,0
-stmt17_63_82.cnf,8.080324774,0
-stmt23_72_76.cnf,8.323234111,0
-PhaseService.cnf,8.937905200,0
-stmt28_68_81.cnf,9.365300978,0
-IterationService.cnf,9.457980565,0
-unit11_3_b.cnf,11.474775633,0
-ConcreteActivityService.cnf,11.508923361,0
-L2-telatko34.cnf,11.522550008,0
-Adder2-8-c.cnf,11.943256385,0
-stmt19_64_99.cnf,12.021981492,0
-test2_quant3.cnf,12.846720343,0
-stmt23_66_96.cnf,12.281937505,0
-stmt17_70_90.cnf,12.455471160,0
-stmt17_62_98.cnf,13.138027612,0
-usb-phy-fixpoint-3.cnf,13.625696717,0
-cycle_sched_6_6_2.sat.cnf,14.774004227,0
-stmt17_70_98.cnf,15.469022826,0
-W5-Umbrella_tbm_26.tex.moduleQ3.7S.000003.cnf,16.502864165,0
-ldomino-15-winA-false-after.qcnf.cnf,11.405866591,0
-arbiter-08-comp-error02-qbf-hardness-depth-9.cnf,17.508213087,0
-cycle_sched_6_7_1.sat.cnf,17.747592476,0
-W4-Umbrella_tbm_26.tex.moduleQ3.7S.000003.cnf,18.315653738,0
-cache-coherence-3-fixpoint-3.cnf,18.454005350,0
-L1-telatko7.cnf,14.229910245,0
-stmt17_82_98.cnf,19.952728012,0
-test2_quant_squaring3.cnf,19.858675785,0
-L1-telatko4.cnf,20.468652477,0
-ProjectService3.cnf,21.487414187,0
-LoginService.cnf,21.887148825,0
-L1-telatko21.cnf,23.962035600,0
-ldomino-17-winB-false-after.qcnf.cnf,23.834669758,0
-NotificationServiceImpl2.cnf,24.898909697,0
-test5_quant7.cnf,.176869511,0
-arbiter-06-comp-error01-qbf-hardness-depth-11.cnf,25.836626122,0
-ldomino-16-winB-false-end.qcnf.cnf,27.681172671,0
-load_2c_comp_comp7_REAL.sat.cnf,29.457074901,0
-L1-telatko13.cnf,30.775400477,0
-cmu.dme2.B-f3.cnf,30.942623205,0
-stmt17_86_98.cnf,17.997811272,0
-sdlx-fixpoint-8.cnf,32.972942699,0
-biu.mv.xl_ao.bb-b003-p020-IPF02-c05.blif-biu.inv.prop.bb-bmc.with-IOC.unfold-007.cnf,34.073191302,0
-neclaftp4001.cnf,35.501602350,0
-arbiter-05-comp-error01-qbf-hardness-depth-8.cnf,6.777617548,0
-kmdf_pcidrv_sys_hw_physet.c.cnf,40.954330537,0
-incrementer-enc09-uniform-depth-17.cnf,49.080365266,0
-stmt29_226_376.cnf,3.326717624,0
-filesys_smbmrx_midatlas.c.cnf,50.663139316,0
-L2-telatko30.cnf,52.993835242,0
-ldomino-19-winA-true-after.qcnf.cnf,55.869372041,0
-ldomino-19-winA-true-end.qcnf.cnf,56.300262719,0
-ProcessBean.cnf,58.252858386,0
-pi-bus-fixpoint-1.cnf,64.977255784,0
-arbiter-06-comp-error01-qbf-hardness-depth-15.cnf,78.928583176,0
-L2-telatko9.cnf,85.208957319,0
-L3-telatko13.cnf,86.134557288,0
-C6288.blif_0.10_0.20_0_0_out_exact.cnf,88.970137342,0
-C6288.blif_0.10_0.20_0_1_out_exact.cnf,92.726699468,0
-usb-phy-fixpoint-5.cnf,37.558239135,0
-network_ndis_rtlnwifi_hw_hw_ccmp.c.cnf,96.729173789,0
-eequery_query42_1344n.cnf,101.489086873,0
-audio_ddksynth_csynth2.cpp.cnf,106.420558433,0
-C6288.blif_0.10_0.20_0_1_inp_exact.cnf,99.787759282,0
-C6288.blif_0.10_0.20_0_0_inp_exact.cnf,114.078315472,0
-gttt_1_1_000111_4x4_torus_w.cnf,119.266050376,0
-W4-Umbrella_tbm_25.tex.moduleQ3.7S.000003.cnf,120.155770581,0
-L2-telatko1.cnf,126.530869625,0
-b22_PR_9_90.cnf,109.798586088,0
-gttt_1_1_00101121_4x4_torus_w.cnf,135.337749935,0
-W5-Umbrella_tbm_05.tex.moduleQ3.8S.000001.cnf,99.647473379,0
-ldomino-18-winA-true-end.qcnf.cnf,137.518718383,0
-cycle_sched_4_4_2.sat.cnf,139.807977198,0
-gttt_2_2_000111_4x4_w.cnf,151.513659369,0
-W5-Umbrella_tbm_25.tex.moduleQ3.7S.000003.cnf,153.238456528,0
-gttt_2_1_00102030_4x4_torus_b.cnf,155.185922327,0
-gttt_2_1_00011020_4x4_b.cnf,155.032709081,0
-gttt_2_2_000111_4x4_torus_b.cnf,157.185091881,0
-gttt_2_2_000111_4x4_torus_w.cnf,161.701513896,0
-gttt_2_1_001020_4x4_torus_w.cnf,163.927999820,0
-arbiter-09-comp-error01-qbf-hardness-depth-15.cnf,169.121562562,0
-sc-ungrounded-1x2X2x3_1.cnf,178.944119252,0
-gttt_1_1_000111_4x4_torus_b.cnf,180.235001675,0
-gttt_2_2_000111_4x4_b.cnf,185.898885925,0
-L1-telatko20.cnf,192.782307075,0
-nreachq_query71_1344.cnf,195.819225092,0
-ldomino-21-winB-true-after.qcnf.cnf,195.377575925,0
-sortnetsort10.AE.stepl.006.cnf,203.753000893,0
-Adder2-16-c.cnf,193.126100878,0
-sc-ungrounded-2x1X1x3_1.cnf,201.895403867,0
-neclaftp2002.cnf,203.492035831,0
-reachqu_query71_1344.cnf,209.307672824,0
-sc-ungrounded-1x3X3x2_1.cnf,216.240459270,0
-sortnetsort9.AE.stepl.008.cnf,228.329551675,0
-sc-ungrounded-1x2X2x2_2.cnf,234.082975960,0
-sortnetsort9.AE.stepl.007.cnf,281.610558442,0
-sortnetsort9.AE.stepl.009.cnf,292.030732364,0
-ldomino-20-winB-false-end.qcnf.cnf,295.653836161,0
-eijk.bs1512.S-f4.cnf,294.451858219,0
-sc-ungrounded-2x1X1x2_2.cnf,356.108702518,0
-sortnetsort10.AE.stepl.008.cnf,454.350998116,0
-amba4b9y.unsat.cnf,487.207666414,0
-k_branch_n-12.cnf,490.062413464,0
-C6288.blif_0.10_1.00_0_0_inp_exact.cnf,720.003524274,TIMED OUT
-5-5-3-4-3-49-EdAd.cnf,720.003384568,TIMED OUT
-hein_17_6x6-13.pg.cnf,720.002652583,TIMED OUT
-ldomino-15-winB-true-end.qcnf.cnf,720.002786816,TIMED OUT
-mult_bool_matrix_10_9_11.unsat.cnf,720.002648101,TIMED OUT
-5-5-6-4-3-9-EuAd.cnf,720.003076723,TIMED OUT
-sat18_problem15_length_3.cnf,720.002915026,TIMED OUT
-5-5-4-4-3-15-EuAu.cnf,720.003233047,TIMED OUT
-ldomino-18-winB-false-end.qcnf.cnf,720.002950832,TIMED OUT
-L3-telatko4.cnf,720.002913063,TIMED OUT
-k_ph_p-11.cnf,720.003111323,TIMED OUT
-opt18_problem05_length_2.cnf,720.002908958,TIMED OUT
-L2-telatko16.cnf,720.003010826,TIMED OUT
-texas.PI_main^05.E-f3.cnf,720.002586443,TIMED OUT
-genbuf10b4n.unsat.cnf,720.003212244,TIMED OUT
-ldomino-23-winA-true-end.qcnf.cnf,720.003159269,TIMED OUT
-5-5-3-6-3-28-EdAd.cnf,720.002720297,TIMED OUT
-k_branch_p-14.cnf,720.002628767,TIMED OUT
-5-5-4-4-3-70-EuAd.cnf,720.002466041,TIMED OUT
-unit12_2_b.cnf,720.002438018,TIMED OUT
-ldomino-22-winB-false-end.qcnf.cnf,720.002959629,TIMED OUT
-sat18_problem07_length_3.cnf,720.002554860,TIMED OUT
-hein_10_5x5-13.pg.cnf,720.002446586,TIMED OUT
-5-5-5-4-3-77-EdAd.cnf,720.002585433,TIMED OUT
-k_branch_n-17.cnf,720.002976899,TIMED OUT
-5-5-5-6-3-88-EdAd.cnf,720.002448931,TIMED OUT
-5-5-4-6-3-13-EuAd.cnf,720.002463804,TIMED OUT
-alkene_problem13_length_2.cnf,720.002498371,TIMED OUT
-mitexams_problem02_length_3.cnf,720.005466682,TIMED OUT
-sat18_problem12_length_2.cnf,720.002976694,TIMED OUT
-s820_d10_s.cnf,720.040023713,TIMED OUT
-unit6_3_b.cnf,720.004599916,TIMED OUT
-cmu.gigamax.B-d4.cnf,720.002897041,TIMED OUT
-alkene_problem01_length_2.cnf,720.002714951,TIMED OUT
-L3-telatko19.cnf,720.003896494,TIMED OUT
-ldomino-17-winA-true-after.qcnf.cnf,720.002878893,TIMED OUT
-ldomino-15-winB-true-after.qcnf.cnf,720.002856401,TIMED OUT
-ldomino-24-winA-true-after.qcnf.cnf,720.002621284,TIMED OUT
-5-5-6-5-3-90-EuAd.cnf,720.002509780,TIMED OUT
-mitexams_problem10_length_3.cnf,720.003139973,TIMED OUT
-5-5-5-5-3-53-EuAu.cnf,720.002558825,TIMED OUT
-5-5-5-4-3-63-EdAu.cnf,720.002602630,TIMED OUT
-ldomino-25-winA-false-after.qcnf.cnf,720.004006789,TIMED OUT
-opt18_problem16_length_2.cnf,720.006056325,TIMED OUT
-eequery_query42_1344.cnf,720.002629933,TIMED OUT
-sat18_problem10_length_2.cnf,720.003993577,TIMED OUT
-hein_05_6x6-13.pg.cnf,720.002957098,TIMED OUT
-L1-telatko23.cnf,720.002702207,TIMED OUT
-ntrivil_query71_1344n.cnf,720.002788349,TIMED OUT
-5-5-6-3-3-81-EdAu.cnf,720.002741825,TIMED OUT
-mitexams_problem20_length_2.cnf,720.002443676,TIMED OUT
-sat18_problem11_length_2.cnf,720.010025376,TIMED OUT
-L2-telatko2.cnf,720.002955695,TIMED OUT
-D OUT
-sortnetsort9.AE.stepl.012.cnf,720.019022995,TIMED OUT
-genbuf9b4n.unsat.cnf,720.004191581,TIMED OUT
-texas.PI_main^08.E-f3.cnf,720.003975943,TIMED OUT
-ldomino-16-winA-true-after.qcnf.cnf,720.002817117,TIMED OUT
-cmu.dme1.B-f3.cnf,720.002740990,TIMED OUT
-nreachq_query54_1344n.cnf,720.021775949,TIMED OUT
-query71_query36_1344n.cnf,720.004752736,TIMED OUT
-b22_C_2_12.cnf,720.003231852,TIMED OUT
-5-5-6-6-3-17-EuAu.cnf,720.002989008,TIMED OUT
-ldomino-18-winB-false-after.qcnf.cnf,720.003167010,TIMED OUT
-5-5-4-4-3-2-EdAu.cnf,720.003015515,TIMED OUT
-ldomino-24-winB-false-after.qcnf.cnf,720.003132092,TIMED OUT
-hein_18_7x7-13.pg.cnf,720.003591628,TIMED OUT
-5-5-5-9-3-79-EuAu.cnf,720.003051339,TIMED OUT
-p20-1.pddl_planlen=48.cnf,720.003536641,TIMED OUT
-mult_bool_matrix_dyn_9_5.sat.cnf,720.003327082,TIMED OUT
-ldomino-20-winA-true-after.qcnf.cnf,720.002882470,TIMED OUT
-query71_query31_1344n.cnf,720.002761857,TIMED OUT
-sat18_problem03_length_3.cnf,720.003127082,TIMED OUT
+filename,runtime_seconds,count
+hein_14_5x5-07.pg.cnf,1.473629781,0
+hein_09_4x4-07.pg.cnf,1.770428761,0
+test4_quant_squaring2.cnf,.097835074,0
+test3_quant_squaring2.cnf,.068881455,0
+hein_18_7x7-09.pg.cnf,2.541664040,0
+hein_13_5x5-07.pg.cnf,2.833244006,0
+bt2nd-2x4_8.ig.cnf,.312777117,0
+hein_05_6x6-09.pg.cnf,4.617966485,0
+bt-3x6_9.ig.cnf,.628338654,0
+L2-telatko24.cnf,4.913064154,0
+connect-5x5_9_connect3.ig.cnf,.683049763,0
+bt-3x5_11.ig.cnf,.903221849,0
+Umbrella_tbm_05.tex.module.000039.cnf,15.545438731,0
+add5_COMPLETE.cnf,13.335591125,0
+nusmv.tcas^2.B-f2.cnf,8.191862041,0
+nusmv.tcas^3.B-f2.cnf,8.652345497,0
+Adder2-8-s.cnf,12.773569666,0
+hein_19_5x5-11.pg.cnf,39.609673581,0
+add6_REDUCED.cnf,16.245054129,0
+sortnetsort9.v.stepl.005.cnf,1.529164748,0
+sc-ungrounded-1x1X1x3_2.cnf,32.295335251,1
+bt2nd-2x5_10.ig.cnf,.596444962,0
+add6_COMPLETE.cnf,17.684489975,0
+amba2c7n.sat.cnf,2.339021897,1
+hein_03_6x6-11.pg.cnf,62.175265257,0
+sc-ungrounded-1x2X2x2_1.cnf,60.057085630,0
+hein_11_5x5-11.pg.cnf,65.396821538,0
+sc-ungrounded-2x1X1x2_1.cnf,63.392858004,0
+hein_02_5x5-11.pg.cnf,82.459065089,0
+hein_16_5x5-11.pg.cnf,106.691886771,0
+bt-2x6_15.ig.cnf,1.065818989,0
+small-seq-fixpoint-3.cnf,21.825709456,0
+Adder2-14-s.cnf,110.096844946,0
+nusmv.tcas^4.B-f3.cnf,34.082333898,0
+adder-12-unsat.cnf,54.799986266,0
+bt2nd-2x6_14.ig.cnf,1.033516105,0
+amba2f9n.sat.cnf,5.083957153,1
+add7_COMPLETE.cnf,24.691049692,0
+Adder2-10-s.cnf,35.253155385,0
+Adder2-16-s.cnf,197.054642370,0
+sortnetsort9.v.stepl.007.cnf,3.425941147,0
+L3-telatko31.cnf,1.453160833,0
+L3-telatko15.cnf,1.811134807,0
+Core1108_tbm_21.tex.module.000008.cnf,1.586291929,0
+stmt21_181_369.cnf,3.213627053,0
+cycle_sched_2_10_1.sat.cnf,4.030033800,0
+stmt39_285_335.cnf,4.293949450,0
+stmt21_319_418.cnf,4.823569429,0
+L3-telatko42.cnf,.594035843,0
+stmt32_329_378.cnf,5.316117420,0
+C5315.blif_0.10_0.20_0_0_inp_exact.cnf,5.633709642,0
+stmt21_310_360.cnf,5.330932354,0
+C5315.blif_0.10_0.20_0_1_out_exact.cnf,5.811248691,0
+GuidanceService.cnf,6.132152608,0
+intermediate256.cnf,5.984856406,0
+IssueServiceImpl.cnf,6.954933426,0
+unit8_2_b.cnf,7.647344571,0
+stmt17_63_82.cnf,8.580502109,0
+eijk.S1196.S-f2.cnf,5.359677414,0
+PhaseService.cnf,9.531516465,0
+IterationService.cnf,9.970747765,0
+stmt28_68_81.cnf,10.106264293,0
+test2_quant3.cnf,11.778064341,0
+unit11_3_b.cnf,12.353193957,0
+stmt19_64_99.cnf,12.296188749,0
+stmt17_70_98.cnf,13.885623832,0
+cycle_sched_6_6_2.sat.cnf,14.554956031,0
+stmt17_62_98.cnf,14.335087711,0
+W5-Umbrella_tbm_26.tex.moduleQ3.7S.000003.cnf,15.456759090,0
+arbiter-08-comp-error02-qbf-hardness-depth-9.cnf,17.385653577,0
+W4-Umbrella_tbm_26.tex.moduleQ3.7S.000003.cnf,19.680217028,0
+L1-telatko4.cnf,21.735192025,0
+NotificationServiceImpl2.cnf,22.620541277,0
+ProjectService3.cnf,23.394998790,0
+L1-telatko21.cnf,24.083021800,0
+stmt17_70_90.cnf,12.694865429,0
+load_2c_comp_comp7_REAL.sat.cnf,26.473841525,0
+LoginService.cnf,24.150935403,0
+stmt23_72_76.cnf,8.808707019,0
+L1-telatko13.cnf,32.602486682,0
+cmu.dme2.B-f3.cnf,30.747218628,0
+neclaftp4001.cnf,37.952889201,0
+biu.mv.xl_ao.bb-b003-p020-IPF02-c05.blif-biu.inv.prop.bb-bmc.with-IOC.unfold-007.cnf,36.967396137,0
+kmdf_pcidrv_sys_hw_physet.c.cnf,44.052785368,0
+L2-telatko34.cnf,12.024932336,0
+pi-bus-fixpoint-1.cnf,67.100702531,0
+test3_quant2.cnf,.071865936,0
+GuidanceService2.cnf,6.243640087,0
+arbiter-06-comp-error01-qbf-hardness-depth-15.cnf,85.085008971,0
+L3-telatko13.cnf,93.348173903,0
+eequery_query42_1344n.cnf,99.573891862,0
+C6288.blif_0.10_0.20_0_1_out_exact.cnf,99.178794771,0
+gttt_1_1_000111_4x4_torus_w.cnf,117.532762882,0
+network_ndis_rtlnwifi_hw_hw_ccmp.c.cnf,104.340001230,0
+C6288.blif_0.10_0.20_0_0_inp_exact.cnf,123.224813826,0
+ldomino-19-winA-true-end.qcnf.cnf,53.854167768,0
+W4-Umbrella_tbm_25.tex.moduleQ3.7S.000003.cnf,133.201759123,0
+Adder2-8-c.cnf,12.199940844,0
+ldomino-18-winA-true-end.qcnf.cnf,145.219537063,0
+browne_5x5_07.pg.cnf,2.368652124,0
+cycle_sched_4_4_2.sat.cnf,153.524553283,0
+gttt_2_2_000111_4x4_torus_w.cnf,160.749139222,0
+W5-Umbrella_tbm_25.tex.moduleQ3.7S.000003.cnf,163.347916179,0
+gttt_2_1_00102030_4x4_torus_b.cnf,166.871382028,0
+gttt_1_1_000111_4x4_torus_b.cnf,180.248518199,0
+test1_quant3.cnf,.809066328,0
+add5_REDUCED.cnf,13.525125877,0
+sc-ungrounded-1x2X2x3_1.cnf,195.771186931,0
+gttt_2_2_000111_4x4_torus_b.cnf,173.620582632,0
+ldomino-19-winA-true-after.qcnf.cnf,59.807961378,0
+sc-ungrounded-2x1X1x3_1.cnf,216.729736296,0
+sortnetsort10.AE.stepl.006.cnf,222.219344937,0
+sc-ungrounded-1x3X3x2_1.cnf,236.991792712,0
+sortnetsort9.AE.stepl.008.cnf,242.813686853,0
+amba3b5y.sat.cnf,10.640802904,1
+L1-telatko20.cnf,209.700172246,0
+bt2nd-3x4_12.ig.cnf,.881668541,0
+sortnetsort9.AE.stepl.007.cnf,315.288567195,0
+ldomino-20-winB-false-end.qcnf.cnf,317.290950280,0
+sortnetsort9.AE.stepl.009.cnf,306.715825681,0
+eijk.bs1512.S-f4.cnf,325.541045846,0
+gttt_1_1_00101121_4x4_torus_w.cnf,137.819528110,0
+connect-3x3_9_connect3.ig.cnf,.416522812,0
+sortnetsort10.AE.stepl.008.cnf,449.817730535,0
+bt2nd-3x6_10.ig.cnf,.872788755,0
+connect-6x6_9_connect3.ig.cnf,.705089828,0
+test5_quant_squaring5.cnf,.380480426,0
+add7_REDUCED.cnf,24.452961112,0
+bt-2x5_17.ig.cnf,1.356199007,0
+L2-telatko30.cnf,52.956421903,0
+amba4b9y.unsat.cnf,517.742194446,0
+bt2nd-3x5_12.ig.cnf,1.097860258,0
+sc-ungrounded-1x3X3x1_2.cnf,27.485486359,1
+stmt41_160_235.cnf,1.403591492,0
+bt-3x4_19.ig.cnf,1.942512405,0
+L2-telatko1.cnf,135.016324681,0
+k_branch_n-12.cnf,541.090790793,0
+sc-ungrounded-2x1X1x2_2.cnf,378.525988821,0
+reachqu_query71_1344.cnf,222.384991880,0
+test2_quant_squaring2.cnf,8.046410483,0
+ConcreteActivityService.cnf,12.006266584,0
+incrementer-enc08-uniform-depth-33.cnf,121.797166434,0
+connect-6x6_11_connect4.ig.cnf,.955753033,0
+sortnetsort10.v.stepl.005.cnf,2.762462065,0
+5-5-4-4-3-70-EuAd.cnf,720.003324110,TIMED OUT
+5-5-3-4-3-49-EdAd.cnf,720.003756473,TIMED OUT
+ldomino-15-winB-true-end.qcnf.cnf,720.002947885,TIMED OUT
+hein_17_6x6-13.pg.cnf,720.004363726,TIMED OUT
+mult_bool_matrix_10_9_11.unsat.cnf,720.004398568,TIMED OUT
+L2-telatko16.cnf,720.003181791,TIMED OUT
+texas.PI_main^05.E-f3.cnf,720.003090083,TIMED OUT
+5-5-3-6-3-28-EdAd.cnf,720.002862835,TIMED OUT
+C6288.blif_0.10_1.00_0_0_inp_exact.cnf,720.004336838,TIMED OUT
+5-5-4-4-3-15-EuAu.cnf,720.003700919,TIMED OUT
+L3-telatko4.cnf,720.003005337,TIMED OUT
+k_branch_n-11.cnf,720.003042198,TIMED OUT
+k_ph_p-11.cnf,720.003375857,TIMED OUT
+sat18_problem10_length_2.cnf,720.003294143,TIMED OUT
+sat18_problem15_length_3.cnf,720.003125402,TIMED OUT
+5-5-6-3-3-81-EdAu.cnf,720.003060556,TIMED OUT
+sat18_problem11_length_2.cnf,720.005246944,TIMED OUT
+mitexams_problem10_length_3.cnf,720.007513691,TIMED OUT
+5-5-6-4-3-9-EuAd.cnf,720.002787494,TIMED OUT
+ldomino-18-winB-false-end.qcnf.cnf,720.002784225,TIMED OUT
+ldomino-23-winA-true-end.qcnf.cnf,720.003050627,TIMED OUT
+opt18_problem16_length_2.cnf,720.012637569,TIMED OUT
+nreachq_query54_1344n.cnf,720.019676723,TIMED OUT
+ntrivil_query71_1344n.cnf,720.003430665,TIMED OUT
+k_branch_n-17.cnf,720.004632761,TIMED OUT
+alkene_problem01_length_2.cnf,720.003853578,TIMED OUT
+sat18_problem12_length_2.cnf,720.006424346,TIMED OUT
+stmt19_83_412.cnf,2.953795612,0
+connect-5x5_11_connect4.ig.cnf,.927027423,0
+ldomino-17-winB-false-after.qcnf.cnf,24.964507388,0
+C5315.blif_0.10_0.20_0_0_out_exact.cnf,5.722510463,0
+adder-10-sat.cnf,8.516379727,0
+usb-phy-fixpoint-3.cnf,13.264541978,0
+connect-4x4_9_connect3.ig.cnf,.386791503,0
+stmt23_66_96.cnf,11.159693499,0
+connect-6x6_3_connect2.ig.cnf,.168149520,0
+stmt19_313_412.cnf,5.319749418,0
+hein_17_6x6-09.pg.cnf,5.950987776,0
+gttt_2_1_001020_4x4_torus_w.cnf,174.520489765,0
+stmt17_82_98.cnf,17.264698835,0
+connect-4x4_15_connect4.ig.cnf,.801189102,0
+L2-telatko2.cnf,720.003135902,TIMED OUT
+stmt52_295_394.cnf,5.237438187,0
+Core1108_tbm_21.tex.module.000030.cnf,1.083548800,0
+sdlx-fixpoint-8.cnf,29.961697335,0
+genbuf10b4n.unsat.cnf,720.005357023,TIMED OUT
+neclaftp2002.cnf,204.472387662,0
+unit12_2_b.cnf,720.003347928,TIMED OUT
+ProcessBean.cnf,59.383202275,0
+k_branch_p-14.cnf,720.003597618,TIMED OUT
+cycle_sched_6_7_1.sat.cnf,18.983841563,0
+C6288.blif_0.10_0.20_0_0_out_exact.cnf,94.763748011,0
+ldomino-16-winB-false-end.qcnf.cnf,27.289435415,0
+5-5-5-4-3-63-EdAu.cnf,720.003602220,TIMED OUT
+incrementer-enc09-uniform-depth-17.cnf,51.063167265,0
+hein_08_5x5-09.pg.cnf,5.708320620,0
+hein_07_4x4-07.pg.cnf,1.831338852,0
+test2_quant_squaring3.cnf,19.970782843,0
+stmt2_976_999.cnf,22.246351553,0
+nusmv.reactor^3.C-d4.cnf,2.930143798,0
+ldomino-21-winB-true-after.qcnf.cnf,194.426720850,0
+filesys_smbmrx_midatlas.c.cnf,51.670414977,0
+W4-Umbrella_tbm_05.tex.moduleQ3.8S.000001.cnf,124.563795948,0
+ken.flash^08.C-d4.cnf,5.284424622,0
+L2-telatko9.cnf,93.370216671,0
+hein_10_5x5-13.pg.cnf,720.003246171,TIMED OUT
+cache-coherence-3-fixpoint-3.cnf,18.357752583,0
+hein_20_6x6-11.pg.cnf,56.998822645,0
+audio_ddksynth_csynth2.cpp.cnf,109.015751464,0
+gttt_2_1_00011020_4x4_b.cnf,161.010808983,0
+bt-2x4_13.ig.cnf,.619904545,0
+W4-Umbrella_tbm_21.tex.moduleQ3.6S.000001.cnf,20.746516976,0
+test4_quant4.cnf,.173662158,0
+gttt_2_2_000111_4x4_w.cnf,155.936286337,0
+L3-telatko32.cnf,1.306714595,0
+arbiter-06-comp-error01-qbf-hardness-depth-11.cnf,25.218494940,0
+intermediate128.cnf,1.523609854,0
+sc-ungrounded-1x2X2x2_2.cnf,237.857779545,0
+L1-telatko7.cnf,14.458884507,0
+ldomino-15-winA-false-after.qcnf.cnf,11.484683706,0
+alkene_problem13_length_2.cnf,720.003090788,TIMED OUT
+ldomino-15-winB-true-after.qcnf.cnf,720.003255944,TIMED OUT
+L1-telatko23.cnf,720.004174917,TIMED OUT
+hein_05_6x6-13.pg.cnf,720.003672200,TIMED OUT
+stmt17_86_98.cnf,18.163187957,0
+nreachq_query71_1344.cnf,182.760348529,0
+gttt_2_2_000111_4x4_b.cnf,177.442430098,0
+C6288.blif_0.10_0.20_0_1_inp_exact.cnf,96.147447236,0
+test5_quant7.cnf,.175834000,0
+mitexams_problem20_length_2.cnf,720.003409994,TIMED OUT
+arbiter-05-comp-error01-qbf-hardness-depth-8.cnf,6.519166495,0
+arbiter-09-comp-error01-qbf-hardness-depth-15.cnf,169.241357125,0
+stmt29_226_376.cnf,3.241725527,0
+Adder2-16-c.cnf,170.410734867,0
+hein_15_5x5-13.pg.cnf,720.003283178,TIMED OUT
+b22_PR_9_90.cnf,110.240126114,0
+usb-phy-fixpoint-5.cnf,36.561772498,0
+W5-Umbrella_tbm_05.tex.moduleQ3.8S.000001.cnf,101.422551693,0
+cmu.dme1.B-f3.cnf,720.003030464,TIMED OUT
+opt18_problem05_length_2.cnf,720.003027756,TIMED OUT
+5-5-5-6-3-88-EdAd.cnf,720.002926331,TIMED OUT
+5-5-5-4-3-77-EdAd.cnf,720.003055462,TIMED OUT
+5-5-4-6-3-13-EuAd.cnf,720.003104467,TIMED OUT
+s820_d10_s.cnf,720.030955424,TIMED OUT
+mitexams_problem02_length_3.cnf,720.003131547,TIMED OUT
+L3-telatko19.cnf,720.003408566,TIMED OUT
+unit6_3_b.cnf,720.003079196,TIMED OUT
+ldomino-25-winA-false-after.qcnf.cnf,720.002933067,TIMED OUT
+texas.PI_main^08.E-f3.cnf,720.003178046,TIMED OUT
+genbuf9b4n.unsat.cnf,720.003043393,TIMED OUT
+sortnetsort9.AE.stepl.012.cnf,720.011333916,TIMED OUT
+ldomino-16-winA-true-after.qcnf.cnf,720.003199056,TIMED OUT
+query71_query36_1344n.cnf,720.002800724,TIMED OUT
+sat18_problem07_length_3.cnf,720.002939603,TIMED OUT
+ldomino-22-winB-false-end.qcnf.cnf,720.002936172,TIMED OUT
+5-5-6-5-3-90-EuAd.cnf,720.003276669,TIMED OUT
+ldomino-17-winA-true-after.qcnf.cnf,720.002898769,TIMED OUT
+ldomino-24-winA-true-after.qcnf.cnf,720.003179609,TIMED OUT
+5-5-5-5-3-53-EuAu.cnf,720.002717796,TIMED OUT
+eequery_query42_1344.cnf,720.002989870,TIMED OUT
+L1-telatko0.cnf,720.003353316,TIMED OUT
+cmu.gigamax.B-d4.cnf,720.002948055,TIMED OUT
+5-5-6-6-3-17-EuAu.cnf,720.002809029,TIMED OUT
+b22_C_2_12.cnf,720.003015285,TIMED OUT
+ldomino-18-winB-false-after.qcnf.cnf,720.003633932,TIMED OUT
+5-5-4-4-3-2-EdAu.cnf,720.003037246,TIMED OUT
+ldomino-24-winB-false-after.qcnf.cnf,720.006041340,TIMED OUT
+hein_18_7x7-13.pg.cnf,720.003275634,TIMED OUT
+5-5-5-9-3-79-EuAu.cnf,720.002884576,TIMED OUT
+mult_bool_matrix_dyn_9_5.sat.cnf,720.003030978,TIMED OUT
+p20-1.pddl_planlen=48.cnf,720.003680880,TIMED OUT
+ldomino-20-winA-true-after.qcnf.cnf,720.003053116,TIMED OUT
+query71_query31_1344n.cnf,720.003038075,TIMED OUT
+sat18_problem03_length_3.cnf,720.002947411,TIMED OUT
